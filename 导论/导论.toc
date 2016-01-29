@@ -1,2 +1,6 @@
 \beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{绪论}{3}{0}{1}
+\beamer@sectionintoc {1}{为什么要学习《生产与运作管理》}{3}{0}{1}
+\beamer@sectionintoc {2}{“生产与运作管理”在企业中的地位}{4}{0}{2}
+\beamer@sectionintoc {3}{为什么要学习《生产与运作管理》}{6}{0}{3}
+\beamer@sectionintoc {4}{学习《生产与运作管理》的要求}{9}{0}{4}
+\beamer@sectionintoc {5}{《生产与运作管理实务》的内容和考试要求、}{11}{0}{5}

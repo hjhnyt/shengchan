@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.1.2)  29 JAN 2016 01:07
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.1.2)  30 JAN 2016 00:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1787,6 +1787,45 @@ File: ../share/logo.jpg Graphic file (type QTm)
 [4
 
 ]
+File: img/生产系统结构.eps Graphic file (type eps)
+ <img/生产系统结构.eps>
+File: ../share/logo.jpg Graphic file (type QTm)
+ <use  "../share/logo.jpg" > [5
+
+]
+File: ../share/logo.jpg Graphic file (type QTm)
+
+<use  "../share/logo.jpg" > [6
+
+]
+File: ../share/logo.jpg Graphic file (type QTm)
+ <use  "../share/logo.jpg" > [7
+
+]
+File: ../share/logo.jpg Graphic file (type QTm)
+
+<use  "../share/logo.jpg" > [8
+
+]
+File: ../share/logo.jpg Graphic file (type QTm)
+ <use  "../share/logo.jpg" > [9
+
+]
+File: ../share/logo.jpg Graphic file (type QTm)
+
+<use  "../share/logo.jpg" > [10
+
+]
+Missing character: There is no Ⅱ in font [lmsans10-regular]:mapping=tex-text!
+File: ../share/logo.jpg Graphic file (type QTm)
+ <use  "../share/logo.jpg" > [11
+
+]
+File: ../share/logo.jpg Graphic file (type QTm)
+
+<use  "../share/logo.jpg" > [12
+
+]
 \tf@nav=\write6
 \openout6 = `导论.nav'.
 
@@ -1796,20 +1835,20 @@ File: ../share/logo.jpg Graphic file (type QTm)
 \tf@snm=\write8
 \openout8 = `导论.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
  (./导论.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 50.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 50.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 137.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 137.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
  ) 
 Here is how much of TeX's memory you used:
- 34497 strings out of 495310
- 692500 string characters out of 6181299
- 723759 words of memory out of 5000000
- 37230 multiletter control sequences out of 15000+600000
+ 34664 strings out of 495310
+ 699897 string characters out of 6181299
+ 732811 words of memory out of 5000000
+ 37396 multiletter control sequences out of 15000+600000
  5817 words of font info for 36 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
- 49i,20n,71p,10409b,628s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,20n,71p,10409b,637s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 导论.pdf (4 pages).
+Output written on 导论.pdf (12 pages).
